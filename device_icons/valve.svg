@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="54px" height="29px" viewBox="0 0 54 29" enable-background="new 0 0 54 29" xml:space="preserve">
+<style type="text/css">
+	.fault{fill:#EE2958;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.closed{fill:#2C4276;stroke:#FCF8E5;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.closing{fill:#2C4276;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.open{fill:#FCF9E5;stroke:#FCF9E5;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.opening{fill:#FCF9E5;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="fault" class="fault">
+	<polygon points="2,27 27,14.5 2,2 "/>
+  <polygon points="52,27 27,14.5 52,2 "/>
+</g>
+<g id="closed" class="closed">
+	<polygon points="2,27 27,14.5 2,2 "/>
+  <polygon points="52,27 27,14.5 52,2 "/>
+</g>
+<g id="open" class="open">
+	<polygon points="2,27 27,14.5 2,2 "/>
+  <polygon points="52,27 27,14.5 52,2 "/>
+</g>
+<g id="opening" class="opening">
+	<polygon points="2,27 27,14.5 2,2 "/>
+  <polygon points="52,27 27,14.5 52,2 "/>
+</g>
+<g id="closing" class="closing">
+	<polygon points="2,27 27,14.5 2,2 "/>
+  <polygon points="52,27 27,14.5 52,2 "/>
+</g>
+</svg>

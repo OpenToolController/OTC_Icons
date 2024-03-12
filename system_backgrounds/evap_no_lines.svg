@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke: #2c4276;
+        stroke-linecap: round;
+        stroke-width: 6px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        fill: #113;
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fcf9e5;
+        stroke-width: 4px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        fill: #fcf9e5;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 20px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="499.93" cy="500.17" fx="499.93" fy="500.17" r="353.88" gradientTransform="translate(-316.89 -131.51) scale(1.63 1.26)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a2d57"/>
+      <stop offset="1" stop-color="#121234"/>
+    </radialGradient>
+  </defs>
+  <g id="Background">
+    <rect class="cls-8" width="1000" height="1000"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <rect class="cls-5" x="300" y="230" width="400" height="400" rx="18" ry="18"/>
+      <rect class="cls-2" x="300" y="230" width="400" height="400" rx="18" ry="18"/>
+    </g>
+    <text class="cls-10" transform="translate(168.17 181.67)"><tspan class="cls-6" x="0" y="0">A</tspan><tspan x="12" y="0">ux</tspan></text>
+    <text class="cls-10" transform="translate(162.29 130.92)"><tspan class="cls-9" x="0" y="0">V</tspan><tspan class="cls-1" x="10.5" y="0">e</tspan><tspan class="cls-7" x="20.52" y="0">n</tspan><tspan x="31.54" y="0">t</tspan></text>
+    <g>
+      <line class="cls-4" x1="435" y1="898.01" x2="435" y2="722.99"/>
+      <line class="cls-4" x1="565" y1="762.99" x2="565" y2="722.99"/>
+      <line class="cls-4" x1="435" y1="878.01" x2="475" y2="878.01"/>
+      <polyline class="cls-4" points="525 878.01 565 878.01 565 877.99 565 837.99"/>
+      <line class="cls-4" x1="565" y1="878.01" x2="605" y2="878.01"/>
+      <line class="cls-4" x1="395" y1="800.49" x2="435" y2="800.49"/>
+      <polyline class="cls-4" points="565 878.01 565 935.51 605 935.51"/>
+      <text class="cls-10" transform="translate(704.95 941.76)"><tspan x="0" y="0">N</tspan></text>
+      <text class="cls-10" transform="translate(718.11 948.42) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+      <text class="cls-10" transform="translate(279.61 883.63)"><tspan x="0" y="0">N</tspan></text>
+      <text class="cls-10" transform="translate(292.77 890.29) scale(.58)"><tspan x="0" y="0">2</tspan></text>
+      <line class="cls-4" x1="395" y1="878.01" x2="435" y2="878.01"/>
+      <line class="cls-4" x1="435" y1="672.99" x2="435" y2="632.99"/>
+      <line class="cls-4" x1="565" y1="672.99" x2="565" y2="632.99"/>
+      <line class="cls-3" x1="655" y1="935.51" x2="695" y2="935.51"/>
+      <line class="cls-3" x1="345" y1="877.58" x2="305" y2="877.58"/>
+    </g>
+    <g>
+      <line class="cls-4" x1="743" y1="600" x2="703" y2="600"/>
+      <line class="cls-4" x1="743" y1="525" x2="703" y2="525"/>
+    </g>
+    <line class="cls-4" x1="257" y1="600" x2="297" y2="600"/>
+    <line class="cls-4" x1="257" y1="525" x2="297" y2="525"/>
+    <polyline class="cls-4" points="340 227 340 175 300 175"/>
+    <line class="cls-4" x1="250" y1="175" x2="210" y2="175"/>
+    <line class="cls-4" x1="850" y1="175" x2="1000" y2="175"/>
+    <line class="cls-4" x1="250" y1="125" x2="210" y2="125"/>
+    <polyline class="cls-4" points="300 125 400 125 400 227"/>
+    <polyline class="cls-4" points="660 227 660 175 700 175"/>
+    <line class="cls-4" x1="750" y1="175" x2="790" y2="175"/>
+    <line class="cls-4" x1="750" y1="125" x2="790" y2="125"/>
+    <polyline class="cls-4" points="700 125 600 125 600 227"/>
+    <line class="cls-4" x1="850" y1="125" x2="1000" y2="125"/>
+  </g>
+</svg>

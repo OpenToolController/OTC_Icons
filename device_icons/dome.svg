@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 60" style="enable-background:new 0 0 300 60;" xml:space="preserve">
+
+<g id="fault">
+   <path fill="#EE2958" stroke="#111133" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+		d="M4,58C25,30,71,2,148,2s127,28,148,56H4z"/>
+</g>
+<g id="stop">
+   <path fill="#2C4276" stroke="#111133" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+		d="M4,58C25,30,71,2,148,2s127,28,148,56H4z"/>
+</g>
+<g id="spin">
+   <path fill="#2C4276" stroke="#FCF9E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+		d="M4,58C25,30,71,2,148,2s127,28,148,56H4z"/>
+   <line fill="None" stroke="#FCF9E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+   x1="194.7" y1="44.7" x2="230.3" y2="44.7"/>
+   <line fill="None" stroke="#FCF9E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+   x1="176.5" y1="36.3" x2="197.2" y2="36.3"/>
+   <line fill="None" stroke="#FCF9E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+   x1="194.7" y1="30" x2="217.7" y2="30"/>
+</g>
+
+</svg>
