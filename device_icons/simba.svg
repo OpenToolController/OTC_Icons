@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 40" style="enable-background:new 0 0 100 40;" xml:space="preserve">
+
+<style type="text/css">
+	.fault{fill:#EE2958;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.off{fill:#2C4276;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.on{fill:#2C4276;stroke:#FCF9E5;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.text{fill:#FCF9E5;stroke:none;font-family:'MyriadPro-Bold';font-size:20px;}
+</style>
+
+
+<g id="fault" class="fault">
+	<rect x="1.5" y="1.5" width="97" height="37"/>
+	<text class="text" transform="matrix(1 0 0 1 22.0005 25.8699)">Simba</text>
+</g>
+
+<g id="off" class="off">
+	<rect x="1.5" y="1.5" width="97" height="37"/>
+	<text class="text" transform="matrix(1 0 0 1 22.0005 25.8699)">Simba</text>
+</g>
+
+<g id="on" class="on">
+	<rect x="1.5" y="1.5" width="97" height="37"/>
+	<text class="text" transform="matrix(1 0 0 1 22.0005 25.8699)">Simba</text>
+
+</g>
+
+</svg>
+

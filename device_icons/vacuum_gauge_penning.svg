@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 54 54" style="enable-background:new 0 0 54 54;" xml:space="preserve">
+<style type="text/css">
+	.fault{fill:#EE2958;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.off{fill:#2C4276;stroke:#111133;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.on{fill:#2C4276;stroke:#FCF9E5;stroke-width:4;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="fault" class="fault">
+	<circle class="st4" cx="27" cy="27" r="25"/>
+	<circle class="st5" cx="27" cy="27" r="2" stroke="none" fill="#111133"/>
+	<polyline class="st6" points="15.3,47.7 15.3,33.4 38.7,33.4 38.7,47.7 	"/>
+</g>
+<g id="off" class="off">
+	<circle class="st4" cx="27" cy="27" r="25"/>
+	<circle class="st5" cx="27" cy="27" r="2" stroke="none" fill="#111133"/>
+	<polyline class="st6" points="15.3,47.7 15.3,33.4 38.7,33.4 38.7,47.7 	"/>
+</g>
+<g id="on" class="on" >
+	<circle class="st4" cx="27" cy="27" r="25"/>
+	<circle class="st5" cx="27" cy="27" r="2" stroke="none" fill="#FCF9E5"/>
+	<polyline class="st6" points="15.3,47.7 15.3,33.4 38.7,33.4 38.7,47.7 	"/>
+</g>
+</svg>
