@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 70" style="enable-background:new 0 0 24 70;" xml:space="preserve">
+<style type="text/css">
+	.fault{fill:#EE2958;stroke:#2C4276;stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.off{fill:none;stroke:#2C4276;stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.on{fill:none;stroke:#EE2958;stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="fault" class="fault">
+	<rect width="24" height="70" x="0" y="0" fill="#EE2958" stroke="none" />
+	<line x1="1.4" y1="1.2" x2="1.4" y2="68.8"/>
+</g>
+<g id="off" class="off">
+	<rect width="24" height="70" x="0" y="0" fill="none" stroke="none" />
+	<line x1="1.4" y1="1.2" x2="1.4" y2="68.8"/>
+</g>
+<g id="on" class="on">
+	<rect width="24" height="70" x="0" y="0" fill="none" stroke="none" />
+	<path d="M2.6,13.7c3.6,0,4-8.7,6.6-8.7s3.7,9.2,7,9.2s3.1-8.3,6.4-8.3"/>
+	<path d="M2.6,26.4c3.6,0,4-8.7,6.6-8.7s3.7,9.2,7,9.2s3.1-8.3,6.4-8.3"/>
+	<path d="M2.6,39.1c3.6,0,4-8.7,6.6-8.7s3.7,9.2,7,9.2s3.1-8.3,6.4-8.3"/>
+	<path d="M2.6,51.8c3.6,0,4-8.7,6.6-8.7s3.7,9.2,7,9.2s3.1-8.3,6.4-8.3"/>
+	<path d="M2.6,64.5c3.6,0,4-8.7,6.6-8.7s3.7,9.2,7,9.2s3.1-8.3,6.4-8.3"/>
+	<line x1="1.4" y1="1.2" x2="1.4" y2="68.8"/>
+</g>
+</svg>
